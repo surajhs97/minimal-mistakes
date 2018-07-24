@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-_site/
-=======
+
 *.gem
 *.sublime-project
 *.sublime-workspace
@@ -15,4 +13,4 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
->>>>>>> f501d2583157a2cb0eb2288041927e0cde852147
+
