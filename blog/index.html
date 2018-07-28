@@ -1,6 +1,6 @@
 ---
-layout: home
 title: My Blog
+layout: home
 author_profile: true
 date: 2018-07-18T11:48:41-04:00
 header:
@@ -8,11 +8,10 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/blogImage.jpg
   
-excerpt: "for your help and for my pleasure"
+excerpt: "Welcome to my blog"
 ---
 
-
-<!-- {% include base_path %}
+{% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -21,25 +20,4 @@ excerpt: "for your help and for my pleasure"
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
-{% endfor %} -->
-
-
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
-
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
-
-
-
-
-<!-- ---
-title: Blog
-layout: home
-
-
-
---- -->
-
+{% endfor %}
