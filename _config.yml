@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Suraj H S"
   avatar           : "/assets/images/batmanlogo.jpg"
-  bio              : "I am an amazing person."
+  bio              : #"I am an amazing person."
   location         : "Mysuru,Karnataka,India"
   email            : "surajhs1997@outlook.com"
   uri              :
