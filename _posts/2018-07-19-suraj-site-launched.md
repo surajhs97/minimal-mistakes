@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: home
 title: "My first post"
 date: 2018-07-20
 ---
