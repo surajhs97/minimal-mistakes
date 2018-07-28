@@ -1,16 +1,25 @@
-
 ---
 ---
 
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.12.0 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.11.2 by Michael Rose
   Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119912176-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-119912176-1');
+  </script>
+    <link rel="icon" href="/assets/images/logo.jpg">
+    {% include scripts.html %}
     {% include head.html %}
     {% include head/custom.html %}
   </head>
@@ -37,8 +46,7 @@
       </footer>
     </div>
 
-    {% include scripts.html %}
+
 
   </body>
 </html>
-
