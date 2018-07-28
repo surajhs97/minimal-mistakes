@@ -13,7 +13,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Suraj H S"
   avatar           : "/assets/images/batmanlogo.jpg"
-  bio              : #"I am an amazing person."
+  bio              : "Dreamer"
   location         : "Mysuru,Karnataka,India"
   email            : "surajhs1997@outlook.com"
   uri              :
