@@ -1,5 +1,5 @@
 ---
-<!-- layout: post -->
+layout: posts
 title: "Setting up Pi"
 date: 2018-07-20
 ---
