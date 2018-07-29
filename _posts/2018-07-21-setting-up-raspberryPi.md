@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Setting up Pi"
 date: 2018-07-20
 ---
