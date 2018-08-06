@@ -1,8 +1,5 @@
 ---
-
 title: "My first post"
-date: 2018-07-20
-
 categories:
     - website
 tags :
