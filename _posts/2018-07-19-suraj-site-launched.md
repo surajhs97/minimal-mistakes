@@ -8,6 +8,6 @@ tags :
     - first post
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
-
+This is my first post in github pages. Actually this is my first post, period. After fiddling with the syntaxes of jekyll for a long time, I finally found the right way to do it. 
+So from here on, I'll be posting few tutorials which I found were helpful in my time experimenting with technology and cracking my head so that you don't have to. 
 
