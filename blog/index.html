@@ -1,6 +1,6 @@
 ---
 title: My Blog
-layout: splash
+layout: home
 author_profile: true
 date: 2018-07-18T11:48:41-04:00
 header:
@@ -28,3 +28,23 @@ excerpt: "Welcome to my blog"
   {% include archive-single.html %}
 {% endfor %}
  -->
+
+<!-- ---
+title: My Blog
+layout: splash
+author_profile: true
+date: 2018-07-18T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: /assets/images/blogImage.jpg
+  
+excerpt: "Welcome to my blog"
+---
+
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post">
+  {{ content }}
+</div> -->
